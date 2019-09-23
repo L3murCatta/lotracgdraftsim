@@ -2,6 +2,8 @@ from collections import Counter
 from random import shuffle
 import pyperclip
 
+version = "0.1.1"
+
 def pickHero(heroSet):
     shuffle(heroBase)
     currentPick = heroBase[:heroOptions]
@@ -67,8 +69,10 @@ for i in range(30):
 for card in sorted(currentDeck.keys()):
     dump += "{} {}\n".format(currentDeck[card], card)
 
-dump += '\nDeck drafted via the LotR ACG DraftSim v0.1'
+dump += '\nDeck drafted via the LotR ACG DraftSim v{} (https://github.com/L3murCatta/lotracgdraftsim)'.format(version)
 
-print('Your deck was copied to clipboard!')
+print('Your deck was copied to clipboard!\n')
+print('Press any button to exit...')
+input()
 
 pyperclip.copy(dump)
