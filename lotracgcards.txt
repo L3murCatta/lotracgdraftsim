@@ -1,0 +1,160 @@
+Aragorn|P
+Arwen|G
+Dain II Ironfoot|P
+Dwalin|P
+Eowyn|B
+Faramir|G
+Fredegar Bolger|G
+Gimli|R
+Glorfindel|B
+Idraen|R
+Legolas|R
+Tom Took|B
+A Daughter of Kings|B|1
+A Friend in Need|B|2
+A Good Deed|R|1
+A Good Point|P|1
+A Light from Within|P|3
+A Secretive People|P|1
+A Watchful Peace|B|1
+Advance Warning|G|1
+Back to the Dark|B|2
+Barliman Butterbur|B|1
+Beorn|R|1
+Beorn's Hospitality|G|1
+Borne Aloft|B|1
+Bow of the Galadhrim|R|2
+Careful Planning|B|1
+Celduin Traveler|B|1
+Citadel Plate|R|3
+Cleverness|B|1
+Cloak of Lorien|G|2
+Common Cause|P|1
+Cram|P|2
+Curious Brandybuck|R|1
+Daughter of the Nimrodel|G|2
+Dunedain Gift|P|1
+Dunedain Hunter|R|2
+Dunedain Trap|G|3
+Dwarven Axe|R|1
+Dwarven Peacekeeping|R|1
+Dwarven Warrior|P|1
+East Road Rider|G|1
+Elven Blade|R|1
+Emissary of the Valar|B|2
+Enduring Valor|N|0
+Erebor Battlemaster|R|3
+Erebor Record Keeper|G|1
+Erebor Watchman|P|1
+Erestor|P|2
+Erkenbrand|P|1
+Escort from Edoras|P|1
+Ever My Heart Rises|B|1
+Ever Vigilant|P|1
+Fair and Perilous|B|2
+Farmer Maggot|R|1
+Favor of the Lady|B|1
+Favor of the Valar|N|0
+Feint|R|1
+First to the Party|P|1
+For Gondor!|P|1
+Forest Protector|B|1
+Forest Snare|G|1
+Fornost Bowman|R|1
+Gaining Strength|P|1
+Galadhon Archer|R|1
+Galadriel's Handmaiden|B|1
+Gandalf|N|0
+Get the Orcs!|R|1
+Ghan-buri-Ghan|G|1
+Gilthoniel! A Elbereth!|B|1
+Gondorian Shield|P|1
+Grace of the Eldar|G|1
+Grateful Escapee|G|1
+Guard of the Citadel|P|1
+Guardian of Arnor|P|1
+Guardian of the Forest|P|1
+Hands Upon the Bow|R|2
+Helpful Squire|P|1
+Hobbit Bounder|G|2
+Hobbit Pipe|B|3
+Hold Your Ground|B|1
+Honeycomb|N|0
+Hope in a Dark Place|B|1
+Houses of Healing|G|1
+Imladris Caregiver|G|1
+Imladris Minstrel|G|1
+Ioreth|G|3
+Iron Hills Miner|G|1
+Ithilien Lookout|G|1
+Khazad ai-menu!|P|2
+Legacy of the North|P|1
+Lembas|G|1
+Lit Torch|B|1
+Lock Shields|R|1
+Longbeard Mapmaker|G|1
+Mablung|G|2
+Man of Dale|R|1
+Mighty Warrior|R|2
+Mithrandir's Advice|G|1
+Narya|N|0
+Nothern Survivor|P|1
+Orc Disguise|G|1
+Quick Strike|R|2
+Quicker than Sight|B|1
+Radagast|N|0
+Raiment of War|R|1
+Rain of Arrows|R|1
+Raise the Shire|P|1
+Ranger Bow|G|1
+Ranger Cloak|P|1
+Ranger Spear|R|1
+Ranger's Blade|P|1
+Raven-winged Helm|P|1
+Reinforcements|P|2
+Resourcefulness|G|1
+Rhovanion Outrider|B|1
+Ride them Down!|B|3
+Ride to Ruin|B|1
+Rivendell Blade|G|1
+Rohirrim Lancer|P|1
+Round Shield|R|1
+Sarn Ford Sentry|B|1
+Second Breakfast|G|1
+Secret Paths|B|1
+Seen and Unseen|B|1
+Self-preservation|G|1
+Shield of Rohan|R|1
+Shot from the Sky|R|1
+Silvan Tracker|G|1
+Sneak Attack|P|1
+Spear Wall|R|1
+Spike Trap|G|1
+Star Brooch|B|1
+Sterner than Steel|B|2
+Sting|B|1
+Strength of Arms|P|3
+Study the Scrolls|G|1
+Sudden Riposte|G|2
+Sword of Numenor|P|2
+Sword that was Broken|P|1
+The Road Goes Ever On|G|1
+The Tree People|P|1
+Three Golden Hairs|G|1
+Timely Rescue|B|1
+Tom Bombadil|N|0
+Traffic from Dale|P|1
+Trollshaw Scout|G|1
+Unexpected Courage|B|1
+Veteran Axehand|R|1
+Veteran of Nanduhirion|R|1
+Wandering Took|B|1
+Warden of Annuminas|P|1
+Warrior Sword|R|1
+Web Cutter|G|1
+Well-prepared|B|1
+Westfold Outrider|R|1
+Will of Steel|B|1
+Woodland Courier|B|1
+Woodman Scout|R|1
+Zigil Miner|P|1
